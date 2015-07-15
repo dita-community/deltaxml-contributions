@@ -1,0 +1,3 @@
+[submodule "toolkit_plugins/org.dita-community.flagging.pdf"]
+	path = toolkit_plugins/org.dita-community.flagging.pdf
+	url = git@github.com:dita-community/org.dita-community.pdf.flagging.git

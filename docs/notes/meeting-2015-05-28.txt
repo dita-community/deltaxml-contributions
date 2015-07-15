@@ -1,0 +1,14 @@
+Meeting With Nigel 28 May 2015
+
+Difference between HTML and PDF on flagging on root elements.
+
+Change bars not supported in FOP (may crash FOP if fo:change-bar is present). Haven't worried about it to date.
+
+Would like to include in EPUB, HTML5.
+
+All changes indicated through @rev and @status
+
+Test cases packaged with the DITA compare package
+
+Nigel will provide license for products
+
