@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <val>
-    <prop action="flag" att="audience" val="export">
+    <prop action="flag" att="audience" val="expert">
       <startflag>
         <alt-text>[E]</alt-text>
       </startflag>
