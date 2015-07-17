@@ -24,7 +24,7 @@
   <property name="package.dist" location="${dist}/deltaxml-contributions"/>
 	<property name="package.zip.base" value="dita-community"/>
   <property name="dita-ot-dir" location="c:\DITA-OT1.8"/>
-  <property name="plugin.src" location="${basedir}"/>
+  <property name="plugin.src" location="${basedir}/toolkit_plugins"/>
   <property name="plugin-deploy_target" location="${dita-ot-dir}/plugins"/>
   <property name="doctypes.plugin-dist" location="${plugin.dist}/deltaxml-contributions-ot-plugins"/>
 	<property name="target.home" location="${basedir}/target"/>
@@ -83,12 +83,9 @@
 		dist-init
 		"
 		>
-    <delete includeEmptyDirs="true" failonerror="false">
-      <fileset dir="${plugin.dist}"  includes="*/**"/>
-    </delete>
 		<copy todir="${plugin.dist}">
 			<fileset dir="${plugin.src}">
-				<exclude name="*.zip"/> 
+			  <include name="org.dita-community.*/**"/>
 			</fileset>
 		</copy>
 		
