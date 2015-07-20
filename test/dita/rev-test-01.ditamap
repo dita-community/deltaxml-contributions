@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Revision and Flagging Test 01</title>
+  <topicref
+    href="topic-01.dita"/>
+  <topicref
+    href="added-topic.dita"/>
+  <topicref
+    href="topic-deleted.dita"/>
+  <topicref
+    href="topic-changed.dita"/>
+  <topicref
+    href="topic-ref-deleted.dita"
+    status="deleted"/>
+  <topicref
+    href="topic-added-ref.dita"
+    status="new"/>
+  <topicref
+    href="topic-changed-ref.dita"
+    status="changed"/>
+  <topicref
+    href="topic-unchanged.dita"/>
+</map>

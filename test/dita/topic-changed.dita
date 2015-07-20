@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic
+  id="topic_oxw_5nh_ts"
+  status="changed">
+  <title>This Topic Has Been Changed</title>
+  <body>
+    <p>This topic has been changed and is marked with @status="changed".</p>
+  </body>
+</topic>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic
+  id="topic_gdv_jnh_ts"
+  status="deleted">
+  <title>This Topic Has Been Deleted</title>
+  <body>
+    <p>This topic is marked as @status="deleted". The deletion should be reflected where the topic is presented in the main flow and in the table of contents.</p>
+  </body>
+</topic>

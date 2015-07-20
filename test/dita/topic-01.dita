@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_nqd_rmh_ts">
+  <title>Test Overview</title>
+  <body>
+    <p>This document tests handling of revision flagging (@rev) and @status flagging.</p>
+    <p>In particular, it tests formatting of entire topics marked as changed or revised. It also tests the flagging associated with @status values.</p>
+  </body>
+</topic>

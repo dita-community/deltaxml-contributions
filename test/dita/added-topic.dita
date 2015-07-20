@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic
+  id="topic_psz_xmh_ts"
+  status="new">
+  <title>This Topic Has Been Added</title>
+  <body>
+    <p>This topic has been added and the entire topic is marked with @status="added".</p>
+    <p>It should be highlighted where presented in the main flow and in the table of contents.</p>
+  </body>
+</topic>
