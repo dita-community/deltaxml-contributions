@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Revision and Flagging Test 01</title>
+ <title>Revision and Flagging Test 01 (<ph
+      platform="audience-expert-flag">audience-expert-flag.ditaval</ph>
+    <ph
+      platform="rev01-flag">rev01-flag</ph>)</title>
   <topicref
     href="topics/topic-01.dita">
     <topicref

@@ -3,7 +3,7 @@
     <prop action="exclude" att="platform"/>
     <prop action="include" att="platform" val="rev01-flag"/>
 
-    <revprop action="flag" val="rev01" changebar="1" color="green"/>
+    <revprop action="flag" val="rev01" changebar="style:solid;color:blue;width:1pt;offset:2pt" color="green"/>
     <revprop action="flag" val="rev02" changebar="2" />
     <revprop action="flag" val="rev03" changebar="3" />
 </val>

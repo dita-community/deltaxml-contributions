@@ -2,12 +2,16 @@
 <val>
     <prop action="exclude" att="platform"/>
     <prop action="include" att="platform" val="audience-expert-flag"/>
-    <prop action="flag" att="audience" val="expert" color="yellow">
-      <startflag>
-        <alt-text>[E]</alt-text>
-      </startflag>
-      <endflag>
-        <alt-text>[/E]</alt-text>
-      </endflag>
-    </prop>
+    <prop
+    action="flag"
+    att="audience"
+    val="expert"
+    color="navy">
+    <startflag>
+      <alt-text>[E]</alt-text>
+    </startflag>
+    <endflag>
+      <alt-text>[/E]</alt-text>
+    </endflag>
+  </prop>
 </val>
