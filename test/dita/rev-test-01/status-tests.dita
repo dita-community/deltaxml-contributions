@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ont_y52_vs">
+  <title>Status Tests</title>
+  <body>
+    <p>Tests of flagging based on @status values.</p>
+  </body>
+</topic>

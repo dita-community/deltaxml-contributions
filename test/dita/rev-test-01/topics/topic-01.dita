@@ -5,5 +5,11 @@
   <body>
     <p>This document tests handling of revision flagging (@rev) and @status flagging.</p>
     <p>In particular, it tests formatting of entire topics marked as changed or revised. It also tests the flagging associated with @status values.</p>
+    <p>This document uses the @platform attribute as a filtering attribute to filter on the specific DITAVAL file used. Each DITAVAL used for testing sets default for @platform to "exclude" and then includes the value for itself. This allows the test document to reflect which DITAVAL file was used to produce it.</p>
+    <p>DITAVAL used for this output instance:</p>
+    <p
+      platform="audience-expert-flag">DITAVAL audience-expert-flag.ditaval</p>
+    <p
+      platform="rev01-flag">DITAVAL rev01-flag</p>
   </body>
 </topic>

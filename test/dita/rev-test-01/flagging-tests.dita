@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_kj3_bv2_vs">
+  <title>Flagging Tests</title>
+  <body>
+    <p>Tests of flagging based on @rev values and values of conditional attributes (e.g., @audience, @props specializations).</p>
+  </body>
+</topic>

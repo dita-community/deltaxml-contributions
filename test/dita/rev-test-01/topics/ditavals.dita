@@ -7,13 +7,13 @@
       <dlentry>
         <dt>Flagging on @audience value "expert" (audience-expert-flag.ditaval)</dt>
         <dd>
-          <codeblock><coderef href="../../../ditavals/audience-expert-flag.ditaval"/></codeblock>
+          <codeblock><coderef href="../ditavals/audience-expert-flag.ditaval"/></codeblock>
         </dd>
       </dlentry>
       <dlentry>
         <dt>Flagging on @rev values (rev01-flag.ditaval)</dt>
         <dd>
-          <codeblock><coderef href="../../../ditavals/rev01-flag.ditaval"/></codeblock>
+          <codeblock><coderef href="../ditavals/rev01-flag.ditaval"/></codeblock>
         </dd>
       </dlentry>
       <dlentry>

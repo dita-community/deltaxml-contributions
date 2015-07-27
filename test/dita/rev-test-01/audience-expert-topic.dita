@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic
+  id="topic_bcc_gv2_vs"
+  audience="expert">
+  <title>This is An Expert Topic</title>
+  <body>
+    <p>The root element of this topic is marked as @audience="expert".</p>
+  </body>
+</topic>

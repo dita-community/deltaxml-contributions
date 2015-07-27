@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ywh_tw2_vs">
+  <title>Topic Title With Applicability <ph
+    audience="expert">expert</ph>|<ph
+    audience="beginner">beginner</ph></title>
+  <body>
+    <p>This topics' title has phrases that have different applicability for @audience.</p>
+  </body>
+</topic>

@@ -5,27 +5,39 @@
   <topicref
     href="topics/topic-01.dita">
     <topicref
-      href="topics/inline-revision-tests.dita"/>
-    <topicref
       href="topics/ditavals.dita"/>
   </topicref>
   <topicref
-    href="topics/added-topic.dita"/>
+    href="flagging-tests.dita">
+    <topicref
+      href="topics/inline-revision-tests.dita"/>
+    <topicref
+      href="topics/topic-rev01.dita"/>
+    <topicref
+      href="audience-expert-topic.dita"/>
+    <topicref
+      href="in-topic-flagging.dita"/>
+    <topicref
+      href="flagging-in-titles.dita"/>
+  </topicref>
   <topicref
-    href="topics/topic-deleted.dita"/>
-  <topicref
-    href="topics/topic-changed.dita"/>
-  <topicref
-    href="topics/topic-ref-deleted.dita"
-    status="deleted"/>
-  <topicref
-    href="topics/topic-added-ref.dita"
-    status="new"/>
-  <topicref
-    href="topics/topic-changed-ref.dita"
-    status="changed"/>
-  <topicref
-    href="topics/topic-unchanged.dita"/>
-  <topicref
-    href="topics/topic-rev01.dita"/>
+    href="status-tests.dita">
+    <topicref
+      href="topics/added-topic.dita"/>
+    <topicref
+      href="topics/topic-deleted.dita"/>
+    <topicref
+      href="topics/topic-changed.dita"/>
+    <topicref
+      href="topics/topic-ref-deleted.dita"
+      status="deleted"/>
+    <topicref
+      href="topics/topic-added-ref.dita"
+      status="new"/>
+    <topicref
+      href="topics/topic-changed-ref.dita"
+      status="changed"/>
+    <topicref
+      href="topics/topic-unchanged.dita"/>
+  </topicref>
 </map>
