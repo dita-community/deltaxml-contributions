@@ -6,6 +6,8 @@
     href="topics/topic-01.dita">
     <topicref
       href="topics/inline-revision-tests.dita"/>
+    <topicref
+      href="topics/ditavals.dita"/>
   </topicref>
   <topicref
     href="topics/added-topic.dita"/>

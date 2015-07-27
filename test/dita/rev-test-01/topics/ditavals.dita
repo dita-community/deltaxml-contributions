@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_nbr_r42_vs">
+  <title>DITAVAL Files Used for Testing</title>
+  <body>
+    <p>The following DITAVAL files are used for testing:<dl>
+      <dlentry>
+        <dt>Flagging on @audience value "expert" (audience-expert-flag.ditaval)</dt>
+        <dd>
+          <codeblock><coderef href="../../../ditavals/audience-expert-flag.ditaval"/></codeblock>
+        </dd>
+      </dlentry>
+      <dlentry>
+        <dt>Flagging on @rev values (rev01-flag.ditaval)</dt>
+        <dd>
+          <codeblock><coderef href="../../../ditavals/rev01-flag.ditaval"/></codeblock>
+        </dd>
+      </dlentry>
+      <dlentry>
+        <dt>Flagging on @status values</dt>
+        <dd>Flagging on @status values is controlled by a single runtime parameter, args.flag-on-status=(true|false), with the default being "false" (no flagging).</dd>
+      </dlentry>
+      </dl></p>
+  </body>
+</topic>

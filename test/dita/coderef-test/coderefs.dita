@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_kdq_gt2_vs">
+  <title>Coderefs to DITAVAL Files</title>
+  <body>
+    <p>Code reference to DITAVAL that is stored below the root map:</p>
+    <fig
+      id="fig_zjz_kt2_vs">
+      <title>Coderef to DITAVAL Below Map</title>
+      <codeblock><coderef href="ditavals/ditaval-under-map.ditaval"/></codeblock>
+    </fig>
+    <p>Coderef to DITAVAL above map:</p>
+    <fig
+      id="fig_wjs_ht2_vs">
+      <title>Coderef to DITAVAL Above Map</title>
+      <codeblock><coderef href="../ditaval-above-map.ditaval"/></codeblock>
+    </fig>
+  </body>
+</topic>
