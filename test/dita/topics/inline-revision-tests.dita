@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_rq1_pd3_ts">
+  <title>Inline Revision Tests</title>
+  <body>
+    <p>This topic contains elements that are marked as revised one way or another.</p>
+    <p
+      status="new">This paragraph is new.</p>
+    <p
+      status="changed">This paragraph is changed.</p>
+    <p
+      status="deleted">This paragraph is deleted.</p>
+    <p>Phrase tests (not space between words): notmarked<ph
+      status="deleted">deleted</ph><ph
+      status="new">new</ph><ph
+      status="changed">changed</ph>after changed.</p>
+    <p
+      rev="rev01">This paragraph is tagged as revision rev01.</p>
+  </body>
+</topic>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <revprop action="flag" val="rev01" changebar="1" color="green"/>
+    <revprop action="flag" val="rev02" changebar="2" />
+    <revprop action="flag" val="rev03" changebar="3" />
+</val>

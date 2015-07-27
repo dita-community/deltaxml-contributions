@@ -3,22 +3,27 @@
 <map>
  <title>Revision and Flagging Test 01</title>
   <topicref
-    href="topic-01.dita"/>
+    href="topics/topic-01.dita">
+    <topicref
+      href="topics/inline-revision-tests.dita"/>
+  </topicref>
   <topicref
-    href="added-topic.dita"/>
+    href="topics/added-topic.dita"/>
   <topicref
-    href="topic-deleted.dita"/>
+    href="topics/topic-deleted.dita"/>
   <topicref
-    href="topic-changed.dita"/>
+    href="topics/topic-changed.dita"/>
   <topicref
-    href="topic-ref-deleted.dita"
+    href="topics/topic-ref-deleted.dita"
     status="deleted"/>
   <topicref
-    href="topic-added-ref.dita"
+    href="topics/topic-added-ref.dita"
     status="new"/>
   <topicref
-    href="topic-changed-ref.dita"
+    href="topics/topic-changed-ref.dita"
     status="changed"/>
   <topicref
-    href="topic-unchanged.dita"/>
+    href="topics/topic-unchanged.dita"/>
+  <topicref
+    href="topics/topic-rev01.dita"/>
 </map>
